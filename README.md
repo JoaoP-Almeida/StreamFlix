@@ -1,3 +1,4 @@
 # StreamFlix
 Projeto--Tecnologias Web
-Aluno: João Pedro ALmeida
+
+Aluno: João Pedro Almeida
